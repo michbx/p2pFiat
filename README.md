@@ -15,6 +15,8 @@ Messages to exchange offers and bids:
 - Node x offers short at exchange rate y for volume z satoshis
 - Node a buys short at exchange rate b for volume c satoshis
 
+![p2p](https://user-images.githubusercontent.com/67538415/200905629-5d038c58-2283-4d39-a45a-35ae60b91704.svg)
+
 # Smart contract swaps on the lightning network
 
 Locks up agreed satoshi volume of both parties
