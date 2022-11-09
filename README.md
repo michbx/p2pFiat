@@ -21,6 +21,7 @@ Locks up agreed satoshi volume of both parties
 Describes position closing dynamics, e.g. 
 - At agreed exchange rate (buy / sell prices communicated between parties)
 - Fallback based on external oracle
+
 Can RGB and Taro contracts be compatible? 
 
 # Local order book building and swap rollover logic
