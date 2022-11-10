@@ -17,7 +17,7 @@ Messages to exchange offers and bids:
 
 ![p2p2](https://user-images.githubusercontent.com/67538415/201062363-06678e6a-4e64-431c-9a3c-c89f1d77f650.svg)
 
-# Smart contract swaps on the lightning network
+# Fully collateralised smart contract swaps on the lightning network
 
 Locks up agreed satoshi volume of both parties
 Describes position closing dynamics, e.g. 
@@ -37,4 +37,6 @@ Can RGB and Taro contracts be made to be compatible?
 - Ensures timely rollover to manage rollover risk
 - Building requires little protocol knowledge, but significant financial understanding
 
+# MVP
 
+The MVP can compromise on the permissionless nature of LNFiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  
