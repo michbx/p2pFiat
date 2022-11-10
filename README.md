@@ -41,4 +41,4 @@ Can RGB and Taro contracts be made to be compatible?
 
 # MVP
 
-The MVP can compromise on the permissionless nature of LNFiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  
+The MVP can compromise on the permissionless nature of p2p Fiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  
