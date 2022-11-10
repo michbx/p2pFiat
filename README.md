@@ -15,7 +15,7 @@ Messages to exchange offers and bids:
 - Node x offers short at exchange rate y for volume z satoshis
 - Node a buys short at exchange rate b for volume c satoshis
 
-![p2p](https://user-images.githubusercontent.com/67538415/200905629-5d038c58-2283-4d39-a45a-35ae60b91704.svg)
+![p2p2](https://user-images.githubusercontent.com/67538415/201062363-06678e6a-4e64-431c-9a3c-c89f1d77f650.svg)
 
 # Smart contract swaps on the lightning network
 
