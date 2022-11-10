@@ -37,6 +37,8 @@ Can RGB and Taro contracts be made to be compatible?
 - Ensures timely rollover to manage rollover risk
 - Building requires little protocol knowledge, but significant financial understanding
 
+![logic](https://user-images.githubusercontent.com/67538415/201158482-47056bed-df72-4281-8d5a-f8815a9a5c5f.svg)
+
 # MVP
 
 The MVP can compromise on the permissionless nature of LNFiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  
