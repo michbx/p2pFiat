@@ -24,7 +24,7 @@ Describes position closing dynamics, e.g.
 - At agreed exchange rate (buy / sell prices communicated between parties)
 - Fallback based on external oracle
 
-![contract](https://user-images.githubusercontent.com/67538415/201073776-e8d664a3-773f-446d-a49a-69c34560f94b.svg)
+![contract3](https://user-images.githubusercontent.com/67538415/201384669-019c5a65-1e86-457f-9553-1bc96b3aef20.svg)
 
 Can RGB and Taro contracts be made to be compatible? 
 
