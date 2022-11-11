@@ -37,7 +37,7 @@ Can RGB and Taro contracts be made to be compatible?
 - Ensures timely rollover to manage rollover risk
 - Building requires little protocol knowledge, but significant financial understanding
 
-![logic](https://user-images.githubusercontent.com/67538415/201158482-47056bed-df72-4281-8d5a-f8815a9a5c5f.svg)
+![logic](https://user-images.githubusercontent.com/67538415/201326940-2588e171-d300-4e72-80b3-1afe38962320.svg)
 
 # MVP
 
