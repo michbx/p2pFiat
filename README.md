@@ -20,6 +20,7 @@ Messages to exchange offers and bids:
 # Fully collateralised smart contract swaps on the lightning network
 
 Locks up agreed satoshi volume of both parties
+
 Describes position closing dynamics, e.g. 
 - At agreed exchange rate (buy / sell prices communicated between parties)
 - Fallback based on external oracle
