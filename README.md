@@ -47,3 +47,5 @@ The MVP can compromise on the permissionless nature of p2p Fiat: an MVP can buil
 # Thank you - inspiration
 
 This project is inspired by [Galoy](https://galoy.io/) [Stablesats](https://stablesats.com/).  You can test that project in the [Bitcoin Beach Wallet](https://www.bbw.sv/).  p2p Fait aims to make the swaps fully p2p trustless and permissionless, whereas [Stablesats](https://stablesats.com/) depends on perpetual swaps by their [Dealer](https://github.com/GaloyMoney/dealer) through the [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt) with [OKX](https://www.okx.com/) at this stage - albeit with an ambition to diversify and partner with [Kollider](https://kollider.xyz/), who are building a (custodial) [browser plugin wallet](https://kollider.xyz/wallet). 
+
+It seems the [Human Rights Foundation](https://hrf.org/) and [Strike](https://strike.me/) have launched a [bounty challenge](https://hrf.org/strike-hrf-bounty) on December 20, 2021 with exactly the challenge as described above.  This is an open call for anyone to team up.  
