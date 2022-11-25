@@ -31,7 +31,7 @@ Describes position closing dynamics, e.g.
 
 Can RGB and Taro contracts be made to be compatible? 
 
-# Decentralised oracle
+# Decentralised oracles
 
 Oracles are the remaining trust element.  
 Bitcoin is secured and considered trustless on the basis that 51% of miners can be trusted. Trustless is trustverymany.  
