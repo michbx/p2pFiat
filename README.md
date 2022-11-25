@@ -31,6 +31,19 @@ Describes position closing dynamics, e.g.
 
 Can RGB and Taro contracts be made to be compatible? 
 
+# Decentralised oracle
+
+Oracles are the remaining trust element.  
+Bitcoin is secured and considered trustless on the basis that 51% of miners can be trusted. Trustless is trustverymany.  
+THe values transacted are large. 
+Users looking for fiat stability, will probably peg for a small value, so most probably the number of counterparties can be smaller. So instead of trustverymany, one may be ok with trustmany.  
+
+For simplicity, we will use here the example of 3 oracles - the oracle outcome can then be structured as a 2 of 3 key. Scaling to larger numbers of oracles is likely relatively trivial.  
+
+Multiple approaches can be used - one possible approach may be that people who exchange satoshis for fiat stability (typically in the background of the app) - also serve themselves as oracle. 
+
+As inputs for the various oracles a stream of agreed exchanges / unwindings of swaps can be sent of the p2p signaling layers - effectively transmitting to the network the exchange rates approved by users.  
+
 # Local order book building and swap rollover logic
 
 - Can be custom built for each wallet
