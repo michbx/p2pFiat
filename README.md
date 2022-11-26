@@ -35,10 +35,12 @@ Can RGB and Taro contracts be made to be compatible?
 
 Oracles are the remaining trust element.  
 Bitcoin is secured and considered trustless on the basis that 51% of miners can be trusted. Trustless is trustverymany.  
-THe values transacted are large. 
+The values transacted are on L1 large and hence require verymany untrusted counterparties for trust. 
+
 Users looking for fiat stability, will probably peg for a small value, so most probably the number of counterparties can be smaller. So instead of trustverymany, one may be ok with trustmany.  
 
 For simplicity, we will use here the example of 3 oracles - the oracle outcome can then be structured as a 2 of 3 key. Scaling to larger numbers of oracles is likely relatively trivial.  
+A team of researcher has already described this in the [Paper 2022/499 - Practical Decentralized Oracle Contracts](https://eprint.iacr.org/2022/499). 
 
 Multiple approaches can be used - one possible approach may be that people who exchange satoshis for fiat stability (typically in the background of the app) - also serve themselves as oracle. 
 
