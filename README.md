@@ -5,7 +5,7 @@ Humanity deserves a trustless permissionless technology with fiat stability.
 
 While prices are set in fiat terms, many people cannot afford the sort term volatility of bitcoin.  A few solutions are emerging to enable stability in fiat terms - on the basis of perpetual swaps with trusted counterparties - see at the bottom of this page for examples.  Ultimate decentralisation would envision a fully decentralised exchange on which people can take derivative positions to achieve stability in fiat terms. Potentially a p2p protocol such as [Holepunch](https://holepunch.to/) could help here or (with the risk of swearing in church) a type of lightning network gossip. Any wallet would offer fiatcoin conversion and on the other hand the ability to take leveraged long bitcoin positions. Through a p2p protocol (such as [Holepunch](https://holepunch.to/) or lightning network gossip), someone looking to buy bitcoin backed fiatcoin, would issue an offer to sell a short swap. Others, or liquidity providers, for example [LN Markets](https://lnmarkets.com/), would make make bids to lock in bitcoin at a certain fiat price.  
 
-![Trustless_fiatcoin2](https://user-images.githubusercontent.com/67538415/200856550-a8f41962-4775-4709-9c74-48e84a8a6d3c.svg)
+![architecture](https://user-images.githubusercontent.com/67538415/204137859-ec64d73a-b66e-44e3-9908-4b10f83f99a9.svg)
 
 Sellers and buyers would be matched on the basis of local book building. Once a seller and a buyer agree on a certain exchange rate, both parties would enter into a fully collateralised swap smart contract - in which one party has effectively bought the ‘fiatcoin’ value and the other party has a leveraged long bitcoin position - the respective satoschis of both parties would be locked up - very similar to a lightning channel. Most likely, [Discrete Log Contracts](https://adiabat.github.io/dlc.pdf), [RGB](https://www.youtube.com/watch?v=Uy-JH7eOkk4) or [Taro](https://lightning.engineering/posts/2022-9-28-taro-launch/) can help to establish these fully collateralised swap smart contracts. An essential input is the exchange rate, which is an input to the smart contract. The established swap can ensure stable fiat value up to half the original exchange rate.  Swap rollover logic can help to automatically roll over the positions to protect the position at all time, e.g. after a 25% drop versus the locked in exchange rate. 
 
@@ -28,8 +28,6 @@ Describes position closing dynamics, e.g.
 - Fallback based on external oracle
 
 ![contract](https://user-images.githubusercontent.com/67538415/201618153-60a8def4-c849-4167-8a0a-85cebdfe3cc6.svg)
-
-Can RGB and Taro contracts be made to be compatible? 
 
 # Decentralised oracles
 
