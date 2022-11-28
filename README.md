@@ -31,6 +31,8 @@ Describes position closing dynamics, e.g.
 
 [Ben Carman](https://github.com/benthecarman) got closest to describing [Discreet Log Contracts on the Lightning Network](https://suredbits.com/author/ben-carman/). 
 
+[TenTenOne](https://github.com/itchysats/10101) seems to be the most advanced implementation of DLC contracts on the lightning network. 
+
 # Decentralised oracles
 
 Oracles are the remaining trust element.  
