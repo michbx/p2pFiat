@@ -29,6 +29,8 @@ Describes position closing dynamics, e.g.
 
 ![contract](https://user-images.githubusercontent.com/67538415/201618153-60a8def4-c849-4167-8a0a-85cebdfe3cc6.svg)
 
+[Ben Carman](https://github.com/benthecarman) got closest to describing [Discreet Log Contracts on the Lightning Network](https://suredbits.com/author/ben-carman/). 
+
 # Decentralised oracles
 
 Oracles are the remaining trust element.  
