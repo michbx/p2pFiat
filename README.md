@@ -33,6 +33,8 @@ Describes position closing dynamics, e.g.
 
 [TenTenOne](https://github.com/itchysats/10101) seems to be the most advanced implementation of DLC contracts on the lightning network. 
 
+On November 28, 2022, Crypto Garage announced the [first lightning channel embedding a DLC](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64). 
+
 # Decentralised oracles
 
 Oracles are the remaining trust element.  
