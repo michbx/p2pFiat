@@ -50,6 +50,10 @@ Multiple approaches can be used - one possible approach may be that people who e
 
 As inputs for the various oracles a stream of agreed exchanges / unwindings of swaps can be sent of the p2p signaling layers - effectively transmitting to the network the exchange rates approved by users.  
 
+# Possible MVP architecture
+
+![arch2](https://user-images.githubusercontent.com/67538415/205103575-d1f1b5b2-fadb-437e-9b9e-e79b25255b64.svg)
+
 # Local order book building and swap rollover logic
 
 - Can be custom built for each wallet
