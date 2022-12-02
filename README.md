@@ -52,7 +52,8 @@ As inputs for the various oracles a stream of agreed exchanges / unwindings of s
 
 # Possible MVP architecture
 
-![arch4](https://user-images.githubusercontent.com/67538415/205123918-61483685-5d4e-4f38-b452-a0f99334135d.svg)
+![arch5](https://user-images.githubusercontent.com/67538415/205261524-91a1e2aa-409d-4d70-bc9c-92baf3612880.svg)
+
 
 # Local order book building and swap rollover logic
 
