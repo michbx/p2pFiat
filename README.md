@@ -54,6 +54,8 @@ As inputs for the various oracles a stream of agreed exchanges / unwindings of s
 
 ![arch5](https://user-images.githubusercontent.com/67538415/205261524-91a1e2aa-409d-4d70-bc9c-92baf3612880.svg)
 
+![arch7](https://user-images.githubusercontent.com/67538415/205500088-efd464d9-65a9-47a0-8369-c5956efa7848.svg)
+
 
 # Local order book building and swap rollover logic
 
