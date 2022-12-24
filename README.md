@@ -27,7 +27,7 @@ Describes position closing dynamics, e.g.
 - At agreed exchange rate (buy / sell prices communicated between parties)
 - Fallback based on external oracle
 
-![contract](https://user-images.githubusercontent.com/67538415/201618153-60a8def4-c849-4167-8a0a-85cebdfe3cc6.svg)
+![contract4](https://user-images.githubusercontent.com/67538415/209436496-dc3e5f56-8d9c-4dcb-8d18-71d5cc732827.svg)
 
 [Ben Carman](https://github.com/benthecarman) got closest to describing [Discreet Log Contracts on the Lightning Network](https://suredbits.com/author/ben-carman/). 
 
