@@ -7,7 +7,7 @@ While prices are set in fiat terms, many people cannot afford the sort term vola
 
 ![architecture](https://user-images.githubusercontent.com/67538415/204137859-ec64d73a-b66e-44e3-9908-4b10f83f99a9.svg)
 
-Sellers and buyers would be matched on the basis of local book building. Once a seller and a buyer agree on a certain exchange rate, both parties would enter into a fully collateralised swap smart contract - in which one party has effectively bought the ‘fiatcoin’ value and the other party has a leveraged long bitcoin position - the respective satoschis of both parties would be locked up - very similar to a lightning channel. Most likely, [Discrete Log Contracts](https://adiabat.github.io/dlc.pdf), [RGB](https://www.youtube.com/watch?v=Uy-JH7eOkk4) or [Taro](https://lightning.engineering/posts/2022-9-28-taro-launch/) can help to establish these fully collateralised swap smart contracts. An essential input is the exchange rate, which is an input to the smart contract. The established swap can ensure stable fiat value up to half the original exchange rate.  Swap rollover logic can help to automatically roll over the positions to protect the position at all time, e.g. after a 25% drop versus the locked in exchange rate. 
+Sellers and buyers would be matched on the basis of local book building. Once a seller and a buyer agree on a certain exchange rate, both parties would enter into a fully collateralised swap smart contract - in which one party has effectively bought the ‘fiatcoin’ value and the other party has a leveraged long bitcoin position - the respective satoschis of both parties would be locked up - very similar to a lightning channel. Most likely, [Discrete Log Contracts](https://adiabat.github.io/dlc.pdf) can help to establish these fully collateralised swap smart contracts. An essential input is the exchange rate, which is an input to the smart contract. The established swap can ensure stable fiat value up to half the original exchange rate.  Swap rollover logic can help to automatically roll over the positions to protect the position at all time, e.g. after a 25% drop versus the locked in exchange rate. 
 
 This project requires three building blocks - the exchange rate 'oracle' can work based on a simple api call for the MVP - only needs development for robust production deployment: 
 
@@ -34,6 +34,8 @@ Describes position closing dynamics, e.g.
 [TenTenOne](https://github.com/itchysats/10101) seems to be the most advanced implementation of DLC contracts on the lightning network. 
 
 On November 28, 2022, Crypto Garage announced the [first lightning channel embedding a DLC](https://medium.com/crypto-garage/dlc-on-lightning-cb5d191f6e64). 
+
+This project previously mentioned a potential role of [RGB](https://www.youtube.com/watch?v=Uy-JH7eOkk4) or [Taro](https://lightning.engineering/posts/2022-9-28-taro-launch/) - the ability to leverage any of these wonderful protocols will depend on the ability to trustlessly mint DLC assets - to potentially allow them to travel more easily over the LN - alternatively, in an MVP, a fiat stability holder who wants to make a payment, would settle part of their DLC and make the payment in the equivalent satoshi value. The receiver has the opportunity to establish fiat stability if they want using the same DLC mechanism. 
 
 # Decentralised oracles
 
