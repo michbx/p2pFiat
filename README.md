@@ -74,6 +74,14 @@ As inputs for the various oracles a stream of agreed exchanges / unwindings of s
 
 The MVP can compromise on the permissionless nature of p2p Fiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  
 
+# Complementarity
+
+p2p fiat is complementary to several digital fiat stability alternatives. p2p fiat is the only truely trustless and permissionless solution. 
+
+Below, you find what is probably the most complete fiat stability / stablecoin overview in the world - please feel free to comment or provide links to other resources. 
+
+![stablecoins](https://user-images.githubusercontent.com/67538415/212276453-2198b075-7c7f-4040-aa45-c6caf1837f40.png)
+
 # Thank you - inspiration
 
 This project is inspired by [Galoy](https://galoy.io/) [Stablesats](https://stablesats.com/).  You can test that project in the [Bitcoin Beach Wallet](https://www.bbw.sv/).  p2p Fait aims to make the swaps fully p2p trustless and permissionless, whereas [Stablesats](https://stablesats.com/) depends on perpetual swaps by their [Dealer](https://github.com/GaloyMoney/dealer) through the [CryptoCurrency eXchange Trading Library](https://github.com/ccxt/ccxt) with [OKX](https://www.okx.com/) at this stage - albeit with an ambition to diversify and partner with [Kollider](https://kollider.xyz/), who are building a (custodial) [browser plugin wallet](https://kollider.xyz/wallet). 
