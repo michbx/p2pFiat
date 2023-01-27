@@ -40,7 +40,7 @@ This project previously mentioned a potential role of [RGB](https://www.youtube.
 # Decentralised oracles
 
 Oracles are the remaining trust element.  
-Bitcoin is secured and considered trustless on the basis that 51% of miners can be trusted. Trustless is trustverymany.  
+Bitcoin is secured and considered trustless on the basis that 51% of miners can be trusted. [Trustless is trustverymany](https://considera.substack.com/p/trustless-is-trustverymany).  
 The values transacted are on L1 large and hence require verymany untrusted counterparties for trust. 
 
 Users looking for fiat stability, will probably peg for a small value, so most probably the number of counterparties can be smaller. So instead of trustverymany, one may be ok with trustmany.  
