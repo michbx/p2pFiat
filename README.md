@@ -1,7 +1,7 @@
 # p2p fiat peg - btc collateralised fiat peg 
 p2p fiat aims to build trustless btc collateralised fiat peg over the Lightning Network. 
 
-Humanity deserves a trustless permissionless technology with fiat stability. 
+Humanity deserves a trustless permissionless technology with fiat peg. 
 
 While prices are set in fiat terms, many people cannot afford the sort term volatility of bitcoin.  A few solutions are emerging to enable stability in fiat terms - on the basis of perpetual swaps with trusted counterparties - see at the bottom of this page for examples.  Ultimate decentralisation would envision a fully decentralised exchange on which people can take derivative positions to achieve stability in fiat terms. Potentially a p2p protocol such as [Holepunch](https://holepunch.to/) could help here or (with the risk of swearing in church) a type of lightning network gossip. Any wallet would offer fiatcoin conversion and on the other hand the ability to take leveraged long bitcoin positions. Through a p2p protocol (such as [Holepunch](https://holepunch.to/) or lightning network gossip), someone looking to buy bitcoin backed fiatcoin, would issue an offer to sell a short swap. Others, or liquidity providers, for example [LN Markets](https://lnmarkets.com/), would make make bids to lock in bitcoin at a certain fiat price.  
 
