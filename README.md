@@ -50,7 +50,7 @@ A team of researchers has already described this as verifiable witness encryptio
 
 Multiple approaches can be used - one possible approach may be that people who exchange satoshis for fiat stability (typically in the background of the app) - also serve themselves as oracle. 
 
-As inputs for the various oracles a stream of agreed exchanges / unwindings of swaps can be sent of the p2p signaling layers - effectively transmitting to the network the exchange rates approved by users.  
+As inputs for the various oracles a stream of agreed exchanges / unwindings of swaps can be sent on the p2p signaling layers - effectively transmitting to the network the exchange rates approved by users - a decentralised price oracle.  This introduces a new challenge - how can we link a certain price signal to a specific asset, e.g. USD - a correlation with historic price signals will likely be a way for a node to assign reputation to an untrusted price signal. 
 
 # Possible MVP architecture
 
