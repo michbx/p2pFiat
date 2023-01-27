@@ -1,5 +1,5 @@
 # p2p fiat peg - btc collateralised fiat peg 
-p2p fiat aims to build trustless btc collateralised fiat stability over the Lightning Network. 
+p2p fiat aims to build trustless btc collateralised fiat peg over the Lightning Network. 
 
 Humanity deserves a trustless permissionless technology with fiat stability. 
 
