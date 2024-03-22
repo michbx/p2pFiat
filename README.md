@@ -79,7 +79,9 @@ The MVP can compromise on the permissionless nature of p2p Fiat: an MVP can buil
 p2p fiat is complementary to several digital fiat stability alternatives. p2p fiat is the only truely trustless and permissionless solution. 
 
 Below, you find what is probably the most complete fiat stability / stablecoin overview in the world - please feel free to comment or provide links to other resources. 
-![fiat-2024-03-21](https://github.com/michbx/p2pFiat/assets/67538415/3bdea667-c0b8-4d79-8f49-43cedadc243c)
+![fiat-2024-03-21](https://github.com/michbx/p2pFiat/assets/67538415/91195d67-8f21-40ae-a22d-4f4babb02dae)
+
+
 
 # Thank you - inspiration
 
