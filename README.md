@@ -29,6 +29,8 @@ Describes position closing dynamics, e.g.
 
 ![contract4](https://user-images.githubusercontent.com/67538415/209436496-dc3e5f56-8d9c-4dcb-8d18-71d5cc732827.svg)
 
+[Juraj Bednár and René Pickardt described Discreet Log Contracts embedded in Lightning channels in 2019](https://hackmd.io/@lpQxZaCeTG6OJZI3awxQPQ/LN-DLC).
+
 [Ben Carman](https://github.com/benthecarman) got closest to describing [Discreet Log Contracts on the Lightning Network](https://suredbits.com/author/ben-carman/). 
 
 [TenTenOne](https://github.com/itchysats/10101) seems to be the most advanced implementation of DLC contracts on the lightning network. 
