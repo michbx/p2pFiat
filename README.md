@@ -74,7 +74,11 @@ As inputs for the various oracles a stream of agreed exchanges / unwindings of s
 
 # MVP
 
-The MVP can compromise on the permissionless nature of p2p Fiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  
+The MVP can compromise on the permissionless nature of p2p Fiat: an MVP can build on a centralised exchange book building - and focus on establishing the fully collaterlised smart contract swaps.  [10101](https://10101.finance/) have built a product that most closely achieves trustless fiat stability. 
+
+# The future risk free rate
+
+As the expectation value for the btc price in usd or other fiat terms is higher in most market circumstances, the market expects the long position to pay a carry fee.  That carry fee will result in the longer term in a new definition for risk free rate - yield without counterparty risk - replacing the current risk free rate, for which the counterparty risk is the US government for US bonds - although in many situations there is intermediary risk. 
 
 # Complementarity
 
